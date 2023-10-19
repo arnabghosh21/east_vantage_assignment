@@ -7,7 +7,10 @@ I solved the assignment in 3 different ways: Pandas, SQL & PySpark
 ##
 
 
-The repository contains a total of 9 files.
+The repository contains a total of 10 files.
+
+### Requirements file(pdf):
+1. Eastvantage - Assignment - Data Engineer (1)
 
 ### Source files:
 1. customer.csv,
@@ -16,7 +19,7 @@ The repository contains a total of 9 files.
 4. sales.csv
 
 ### Solution files:
-1. Databricks notebook: east_vantage_assignment.dbc
+1. Databricks notebook(all in one): east_vantage_assignment.dbc
 2. PySpark: solution_pyspark.py
 3. Pandas: solution_pandas.py
 4. SQL: solution_sql.py
