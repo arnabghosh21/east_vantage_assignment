@@ -1,4 +1,4 @@
-# Evolve Marketing Strategy For XYZ Company
+# Analyse Sales Data to Decide Marketing Strategy For XYZ Company
 
 ## Important to note:
 `I do not have SQLite & PySpark setup in my system. Though I wrote the code to read data from SQLite, I could not verify those lines of code. So, I have commented on those parts & finished the assignment while reading data from the DBFS location using PySpark in Databricks.`
